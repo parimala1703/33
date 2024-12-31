@@ -48,7 +48,8 @@ Key questions answered:
 - What are the busiest days and hours?
 
 ## Results
-![Dashboard Screenshot](https://drive.google.com/file/d/16KpM9z27RL7zH5TojDqSt-5QNRczu-ty/view?usp=drive_link)
+![Dashboard Screenshot](https://drive.google.com/uc?id=16KpM9z27RL7zH5TojDqSt-5QNRczu-ty)
+
 
 ## Recommendations
 
